@@ -1,7 +1,7 @@
 /**
 *注释翻译：侯春雷 Email:omni360@qq.com*/
 
-var THREE = { REVISION: '68' };		//生命全局对象THREE，添加版次信息：68版。
+var THREE = { REVISION: '68' };		//声明全局对象THREE，添加版次信息：68版。
 
 // browserify support
 /******Browserify 通过预编译的方法，让Javascript前端可以直接使用Node后端的程序。
